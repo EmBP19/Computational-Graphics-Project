@@ -15,3 +15,5 @@ Update #2
 <img width="1264" alt="image" src="https://user-images.githubusercontent.com/71990835/201462514-70358db9-417d-4646-978e-ea12e8bf1584.png">
 
 Still work in progress since camera is not fully working as intended. But textures are done. Still needs finishing touches. 
+
+Most complex objects were created using Blender.
