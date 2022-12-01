@@ -1,5 +1,12 @@
 # Computational-Graphics-Project
-Final project for my  Computational Graphics
+Final project for my  Computational Graphics class
+
+This scene is an homage to my childhood and the things I like.  Background music makes me really nostalgic. Enjoy!
+
+
+Final Update:
+
+<img width="1279" alt="Update3" src="https://user-images.githubusercontent.com/71990835/204976915-a3248568-96c3-4d5c-9185-85eaaccd940a.png">
 
 
 
